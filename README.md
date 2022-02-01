@@ -1,1 +1,1 @@
-# Activity-joyce
+This activity is for the subject computer programming II  Joyce Pojas  BSIT 2-2 Yes, because developer and programmers to collaborate work on code.Yes, because it helps them to work together, programmers and developers creates a complex code and develop projects.
